@@ -1,0 +1,1 @@
+This project shows the correlation between gold prices and the views on Pewdipie's youtube videos.
