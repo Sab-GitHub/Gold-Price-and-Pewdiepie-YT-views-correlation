@@ -1,1 +1,1 @@
-This project shows the correlation between gold prices and the views on Pewdipie's youtube videos.
+This project shows the correlation between monthly percentage change in Pewdiepie Viewership and gold prices.
